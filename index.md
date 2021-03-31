@@ -1,2 +1,1 @@
-#Init
-Ignore this file
+Willkommen!
