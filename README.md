@@ -1,0 +1,2 @@
+# freieschulerpartei.github.io
+Website
